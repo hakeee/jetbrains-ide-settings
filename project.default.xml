@@ -1,0 +1,17 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "ics"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="599" y="234" key="SettingsEditor" timestamp="1677357408325">
+          <screen x="0" y="0" width="2194" height="1204" />
+        </state>
+        <state x="599" y="234" key="SettingsEditor/0.0.2194.1204" timestamp="1677357408325" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
