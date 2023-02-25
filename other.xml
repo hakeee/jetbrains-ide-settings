@@ -1,0 +1,113 @@
+<application>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "false",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "false",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "CUSTOMIZE_ACTIONS": "window\nopen win\nBack\nnavigation\nnavigation ba",
+    "CWM_LOGGING_VERSION": "1",
+    "Debug.Allow.Typing": "true",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FindSplitterProportion": "0.33006346",
+    "InstalledPluginsSearchHistory": "test\nte",
+    "KEYMAP": "resume\nCopy\nDebug\nBuild\nGoToIm",
+    "MarketplacePluginsSearchHistory": "copilot\nco\ngithub\n/tag:Keymap",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RD.Init.Cfg.2": "true",
+    "RD.Init.DialogShown.Ide": "true",
+    "Rider.Last.Started.IDE.Build": "RD-223.8617.53",
+    "RiderNuGetViewSettings.contextPopupShortcutIsLearned": "true",
+    "RiderUnitTestPanelSplitter.Horizontal": "0.5",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "setting re\nclass is never\ncopilot\nsync\nreload so",
+    "ThreadsFramesSelectedView": "Default",
+    "Tutorials.In.Recent.Projects.Disabled": "true",
+    "XDebuggerExpressionEditor_Use_Soft_Wraps": "true",
+    "appcds.runOnSecondStart": "RD-223.8617.53-e1051f7d013ca29b134c97e45a7b86aa179d05f2603052af12dc68da4f2d2128",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "RD-223.8617.53",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
+    "com.intellij.ide.navigationToolbar.experimental.showSearchEverywhereHotKeyTip": "false",
+    "debugger.immediate.window.expanded": "false",
+    "debugger.immediate.window.in.watches.proportion.key": "0.99",
+    "debugger.layout.watches.defaultThreadsProportion": "0.22763842",
+    "debugger.smart.chooser.counter": "3",
+    "evlsprt3.223": "24",
+    "experimentalFeature.editor.reader.mode": "false",
+    "file.gist.reindex.count": "14",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "ide.widget.toolbar.first.inclusion": "2",
+    "ideavim.statistics.timestamp": "1676884999106",
+    "ignoreUltimateEdition": "true",
+    "immediate.window.eval.count.until.watch.got.it.hidden": "5",
+    "last_open_solution_path": "C:/repos/Etp.Internalizer/Clients/GUIs/FxInternalizerSimClient",
+    "last_selected_template": "Unit Test Project|.NET / .NET Core",
+    "last_selected_template_parameters": "TargetFrameworkOverride=net7.0;Type=xUnit;Language=C#;DockerSupport=Disabled;Auth=Windows;SDK=7.0;Framework=net7.0;",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "RD-223.8617.53",
+    "rider.tool.window.stripe.manager.enable": "true",
+    "tasks.pass.word.conversion.enforced": "true",
+    "toolwindow.stripes.buttons.info.shown": "true",
+    "ts.lib.d.ts.version": "4.8.4"
+  },
+  "keyToStringList": {
+    "com.jetbrains.rider.afterInstall.statsReportedBuilds": [
+      "RD-223.8617.53"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://zapalnmapp1650.corp.dsarena.com&amp;^%$#@ab015n2" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="FxInternalizer.WatchDog-history" project-path="C:/repos/Etp.Internalizer/Servers/FxInternalizerWatchDog" last-access-time="1676384361364" />
+      <command-history-file filename="FxInternalizer-history" project-path="C:/repos/Etp.Internalizer/OrderWorkers/Algos/FxInternalizer" last-access-time="1676302588679" />
+      <command-history-file filename="Bagl.Etp.FxInternalizer.Simulation.Client-history" project-path="C:/repos/Etp.Internalizer/Clients/GUIs/FxInternalizerSimClient" last-access-time="1676384419939" />
+      <command-history-file filename="Bagl.Etp.FxInternalizer.Simulation.Servers-history" project-path="C:/repos/Etp.Internalizer/Servers/FxInternalizerSimServer" last-access-time="1676384393024" />
+      <command-history-file filename="FxInternalizerDashboard-history" project-path="C:/repos/Etp.Internalizer/Clients/GUIs/FxInternalizerDashboard" last-access-time="1677059292451" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="SHOW_NEW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>
