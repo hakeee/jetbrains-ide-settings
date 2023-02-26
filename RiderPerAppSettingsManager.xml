@@ -4,6 +4,7 @@
       <set>
         <option value="Dynamic Program Analysis" />
         <option value="Unit Tests" />
+        <option value="Unit Tests Coverage" />
         <option value="dotTrace Profiler" />
       </set>
     </option>
