@@ -5,6 +5,7 @@
         <option value="Dynamic Program Analysis" />
         <option value="IL Viewer" />
         <option value="Unit Tests" />
+        <option value="dotTrace Profiler" />
       </set>
     </option>
     <option name="perIdeMigrationStage" value="1" />
