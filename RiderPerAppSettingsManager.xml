@@ -3,6 +3,7 @@
     <option name="enabledBlacklistToolWindowsId">
       <set>
         <option value="Dynamic Program Analysis" />
+        <option value="IL Viewer" />
         <option value="Unit Tests" />
         <option value="Unit Tests Coverage" />
         <option value="dotTrace Profiler" />
