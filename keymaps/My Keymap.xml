@@ -19,6 +19,11 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="Console.TableResult.CopyAggregatorResult" />
   <action id="CopyAbsolutePath" />
   <action id="CopyPaths" />
@@ -33,6 +38,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="e" />
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
